@@ -122,3 +122,18 @@ p {
   text-decoration: underline;
   text-decoration: overline;
 }
+.list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #333;
+}
+.list li {
+  display: block;
+  color: #fff;
+  padding: 8px 16px;
+}
+.list li:hover {
+  background-color: #555;
+}
