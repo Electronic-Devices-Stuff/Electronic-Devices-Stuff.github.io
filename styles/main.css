@@ -155,6 +155,17 @@ p {
   display: block;
   transition: 0.3s
 }
+.sidenav a.color {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #fff;
+  display: block;
+  transition: 0.3s
+}
+.sidenav a.color:hover {
+  color: #555
+}
 .sidenav a:hover, .offcanvas a:focus{
   color: #555;
 }
