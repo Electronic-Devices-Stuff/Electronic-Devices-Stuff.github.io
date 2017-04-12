@@ -164,10 +164,10 @@ p {
   transition: 0.3s
 }
 .sidenav a.color:hover {
-  color: #555
+  color: #fff
 }
 .sidenav a:hover, .offcanvas a:focus{
-  color: #555;
+  color: #fff;
 }
 .sidenav .closebtn {
   position: absolute;
